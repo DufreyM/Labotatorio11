@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636771768129",
+    "project_id": "laboratorio11-90fcc",
+    "storage_bucket": "laboratorio11-90fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636771768129:android:98a14cc8f62141b4a733c0",
+        "android_client_info": {
+          "package_name": "com.example.laboratorio11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhHCUnULIItTnVhsD1TPvKCkiGiIjTRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
